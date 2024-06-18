@@ -1,6 +1,6 @@
+![Sample_Text](https://github.com/CreativeSolutionsDepot/ESP32-LSHT-M-H/assets/139827662/174b140f-6b17-4418-acf8-2da27a51000a)
+![3D Board View](https://github.com/CreativeSolutionsDepot/ESP32-LSHT-M-H/assets/139827662/ce4419be-54ed-4cae-9b3a-dfc41d61d35f)
 
-![3D Board Vie![Sample_Text](https://github.com/CreativeSolutionsDepot/ESP32-LSHT-M-H/assets/139827662/174b140f-6b17-4418-acf8-2da27a51000a)
-w](https://github.com/CreativeSolutionsDepot/ESP32-LSHT-M-H/assets/139827662/ce4419be-54ed-4cae-9b3a-dfc41d61d35f)
 # The ESP32-LSHT-M-H advanced development board 
 
 ### Nomenclature Explanation:
